@@ -58,13 +58,4 @@ SpineGuard is an IoT-enabled wearable device that monitors spinal posture in rea
 
 ---
 
-## 🤝 Contributing  
-PRs are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
-
-## 📜 License  
-MIT License.  
-
----
-
 **Made with ❤️ by [DINESH_AKA_DINESH]**  
-```  
