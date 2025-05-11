@@ -21,7 +21,4 @@
 
 ## 🚨 Problem Statement
 
-Over 85% of desk workers in India suffer from chronic back pain due to poor posture (WHO 2023). Existing solutions are expensive (>₹6,000) and lack personalized insights. SpineGuard provides **real-time posture monitoring** at 1/10th the cost with AI-driven health analytics.
-
----
-
+Over 85% of desk workers in India suffer from chronic back pain due to poor posture (WHO 2023). 
